@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     cout<<"enter \n1 for conversion of decimal number system to other base\n2 for other base to decimal number system\n";
     int n=0;
-    int num, b, rem, r, rev, sum =0;
+    int num, b, r, rev, sum =0;
     cin>>n;
     if(n ==2){
         cout<<"enter your number\n";
